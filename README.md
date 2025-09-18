@@ -7,3 +7,4 @@
 
 ## 라이브 데모
 - 포트폴리오 사이트: https://jiminxchris2.github.io/portfolio2/
+- QRCode 제너레이터: https://jiminxchris2.github.io/portfolio2/qrcode.html
