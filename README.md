@@ -6,4 +6,4 @@
 - AI, ML, DL
 
 ## 라이브 데모
-- 포트폴이로 사이트: https://jiminxchris2.github.io/portfolio2/
+- 포트폴리오 사이트: https://jiminxchris2.github.io/portfolio2/
